@@ -1109,12 +1109,16 @@
                     <connections>
                         <outlet property="aSlaider" destination="SUc-Na-L3x" id="10G-2q-VhH"/>
                         <outlet property="alfaLabel" destination="m8G-Ib-t55" id="1Zd-Xy-arT"/>
+                        <outlet property="alphaTextFild" destination="z1K-vb-cnF" id="IBn-4A-Asp"/>
                         <outlet property="bSlaider" destination="Owg-2u-mZU" id="hGC-aG-fpY"/>
                         <outlet property="blueLabel" destination="yEH-QM-G3c" id="Aaw-rT-ZRc"/>
+                        <outlet property="blueTextField" destination="8Jk-Ax-CWR" id="7nh-j2-Boq"/>
                         <outlet property="gSlaider" destination="eod-o3-3ie" id="ok4-Sb-suz"/>
                         <outlet property="greenLabel" destination="PGM-Sv-2Jp" id="9Hi-3Q-ZOf"/>
+                        <outlet property="greenTextField" destination="ccQ-lD-zNh" id="Avt-Gt-mBV"/>
                         <outlet property="rSlider" destination="WMb-KI-K5k" id="2ep-L7-UUi"/>
                         <outlet property="redLabel" destination="8wJ-yZ-XFD" id="sY2-PA-2Mw"/>
+                        <outlet property="refTextField" destination="Oek-Ti-Tw8" id="NDO-n4-c7m"/>
                         <outlet property="viewPrint" destination="kYn-8H-KJ7" id="xjI-0J-UMP"/>
                     </connections>
                 </viewController>
